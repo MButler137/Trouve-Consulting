@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Products | Trouve Consulting LLC</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="header">
+  <h1>Trouve Consulting LLC</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+  </nav>
+</header>
+
+<section class="products">
+  <h2>Previous Products Built & Sold</h2>
+
+  <div class="product-card">
+    <h4>Product Name One</h4>
+    <p>
+      Short description of the product, the problem it solved,
+      and the market it served.
+    </p>
+    <span class="status sold">Sold</span>
+  </div>
+</section>
+
+<section class="products">
+  <h2>New Products Available</h2>
+
+  <div class="product-card">
+    <h4>New Product Concept</h4>
+    <p>
+      Innovative product concept ready for licensing,
+      acquisition, or further development.
+    </p>
+    <span class="status available">Available</span>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>© 2026 Trouve Consulting LLC. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
