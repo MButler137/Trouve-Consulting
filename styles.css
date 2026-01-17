@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: #ffffff;
-  color: #333;
+  color: ##F6F8FA;
 }
 
 .header {
@@ -41,3 +41,4 @@ body {
   margin-bottom: 20px;
   border-radius: 4px;
 }
+
